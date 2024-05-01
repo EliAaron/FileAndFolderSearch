@@ -1,5 +1,7 @@
 # File and Folder Search
 
+![App Screenshot](./Images/App_Screenshot.png)
+
 ### A Windows app that searches for files and folders.
 
 The search is done on folders and subfolders witout recuosion, instead I use an iterative approuce and a quequ to handle the subfolders in each folder.
